@@ -56,7 +56,7 @@ To get started with Mopidy, check out
 - IRC: ``#mopidy`` at `irc.freenode.net <http://freenode.net/>`_
 - Announcement list: `mopidy@googlegroups.com <https://groups.google.com/forum/?fromgroups=#!forum/mopidy>`_
 - Twitter: `@mopidy <https://twitter.com/mopidy/>`_
-A context view of Mopidy can be seen from [here](https://github.com/mokieyue/hallo/blob/master/Context%20view%20of%20Mopidy.pdf).
+A context view of Mopidy can be seen from [here](https://github.com/Z3Prover/z3/wiki#background).
 
 .. image:: https://img.shields.io/pypi/v/Mopidy.svg?style=flat
     :target: https://pypi.python.org/pypi/Mopidy/
