@@ -57,7 +57,7 @@ To get started with Mopidy, check out
 - Announcement list: `mopidy@googlegroups.com <https://groups.google.com/forum/?fromgroups=#!forum/mopidy>`_
 - Twitter: `@mopidy <https://twitter.com/mopidy/>`_
 A context view of Mopidy can be seen from [here](https://github.com/Z3Prover/z3/wiki#background).
-
+If you are not familiar with Z3, you can start [here](https://github.com/Z3Prover/z3/wiki#background).
 .. image:: https://img.shields.io/pypi/v/Mopidy.svg?style=flat
     :target: https://pypi.python.org/pypi/Mopidy/
     :alt: Latest PyPI version
