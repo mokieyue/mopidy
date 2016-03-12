@@ -45,7 +45,7 @@ embedded in an old cassette player. The buttons and volume control are wired up
 with GPIO on the Raspberry Pi, and is used to control playback through a custom
 Mopidy extension. The cassettes have NFC tags used to select playlists from
 Spotify.
-If you are not familiar with Z3, you can start [here](https://github.com/Z3Prover/z3/wiki#background).
+
 To get started with Mopidy, check out
 `the installation docs <http://docs.mopidy.com/en/latest/installation/>`_.
 
